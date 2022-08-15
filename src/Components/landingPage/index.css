@@ -1,0 +1,63 @@
+.class-body{
+    background-image: url("../img/BEA645B2-01F7-4B49-BF90-58C290A23F66.jpeg");
+    height: 100vh;
+    font-family: sans-serif;
+    overflow: none;
+}
+.class-header{
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: center;
+   
+}
+.class-logo{
+    margin-left: 35rem;
+    margin-top: 2rem;
+}
+
+.class-entrar{
+    margin-left: 30rem;
+    margin-top: 2rem;
+
+}
+
+#style-button-entrar{
+    background-color: #E50914;
+    color: white;
+    border: none;
+    width: 6rem;
+    height: 2rem;
+}
+
+h1{
+    color: white;
+    font-weight: bold;
+    font-size: 55px;
+    margin-top: 15rem;
+}
+
+p{
+    display: grid;
+    justify-content: center;
+    color: white;
+
+}
+.class-body-centro{
+    display: grid;
+    grid-template-rows: auto auto auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.class-button{
+    margin-left: 13rem;
+}
+
+#style-button-assista{
+    background: #E50914;
+    color: white;
+    font-size: 22px;
+    border: none;
+    width: 20rem;
+    height: 3rem;
+}
