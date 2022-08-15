@@ -1,3 +1,7 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
 .class-body{
     background-image: url("../img/BEA645B2-01F7-4B49-BF90-58C290A23F66.jpeg");
     height: 100vh;
